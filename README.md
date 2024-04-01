@@ -47,4 +47,7 @@ This will start the application with webcam feed or video input (modify `cap = c
 This project is developed by [Tazeen Shaikh].
 
 ## Outputs:
+https://github.com/Tazeensk/Emotion_Detection/blob/main/output2.png
+
+
 
