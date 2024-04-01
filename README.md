@@ -1,6 +1,7 @@
 # Emotion Detection Project with GUI
 
 This project aims to detect emotions from live webcam feed or video files. It uses a convolutional neural network (CNN) model trained on facial emotion images. The GUI interface allows for real-time detection of emotions on faces.
+Download Dataset from:: https://www.kaggle.com/datasets/msambare/fer2013
 
 ## Features
 
@@ -44,3 +45,6 @@ This will start the application with webcam feed or video input (modify `cap = c
 ## Credits
 
 This project is developed by [Tazeen Shaikh].
+
+## Outputs:
+
